@@ -1,0 +1,2 @@
+# AutoIPChangeForDocker
+自动将电信动态IP地址注册至阿里云托管的域名
